@@ -1,0 +1,372 @@
+[
+    {
+        "id": 1,
+        "slug": "premiere-pro-editing-pack",
+        "name": {
+            "en": "Premiere Pro Editing Pack",
+            "ar": "باك مونتاج بريمير برو"
+        },
+        "description": {
+            "en": "Complete editing toolkit with transitions, color grades, and text animations for Premiere Pro. Speed up your editing workflow by 3x.",
+            "ar": "حزمة مونتاج كاملة تشمل انتقالات، تدريج ألوان، وحركات نصية لبرنامج بريمير برو. سرّع شغلك 3 أضعاف."
+        },
+        "price": 29.99,
+        "category": "video-editing",
+        "isFree": false,
+        "isBestSeller": true,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&h=400&fit=crop",
+        "features": [
+            "50+ Transitions",
+            "20 Color Grades",
+            "15 Text Animations",
+            "4K Ready"
+        ],
+        "compatibility": [
+            "Premiere Pro CC 2022+"
+        ],
+        "fileFormat": ".mogrt, .prproj",
+        "license": "Single user, unlimited projects",
+        "dateAdded": "2026-01-15"
+    },
+    {
+        "id": 2,
+        "slug": "social-media-templates-bundle",
+        "name": {
+            "en": "Social Media Templates Bundle",
+            "ar": "باقة قوالب السوشيال ميديا"
+        },
+        "description": {
+            "en": "200+ Instagram, TikTok, and YouTube templates. Fully editable in Canva and Photoshop. Client-ready designs.",
+            "ar": "أكثر من 200 قالب لانستجرام، تيك توك، ويوتيوب. قابلة للتعديل في كانفا وفوتوشوب. جاهزة للعملاء."
+        },
+        "price": 49.99,
+        "category": "graphic-design",
+        "isFree": false,
+        "isBestSeller": true,
+        "isBundle": true,
+        "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop",
+        "features": [
+            "200+ Templates",
+            "Story & Post Sizes",
+            "Editable Text & Colors",
+            "Brand Kit Ready"
+        ],
+        "compatibility": [
+            "Canva",
+            "Photoshop CC 2021+"
+        ],
+        "fileFormat": ".psd, .canva",
+        "license": "Single user, unlimited client projects",
+        "dateAdded": "2026-01-20"
+    },
+    {
+        "id": 3,
+        "slug": "ai-voice-enhancement-toolkit",
+        "name": {
+            "en": "AI Voice Enhancement Toolkit",
+            "ar": "أدوات تحسين الصوت بالذكاء الاصطناعي"
+        },
+        "description": {
+            "en": "AI-powered audio cleanup presets and noise reduction profiles. Crystal clear voiceovers in one click.",
+            "ar": "بريسيت تنظيف صوتي مدعوم بالذكاء الاصطناعي وملفات إزالة الضوضاء. صوت واضح بنقرة واحدة."
+        },
+        "price": 19.99,
+        "category": "ai-tools",
+        "isFree": false,
+        "isBestSeller": true,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&h=400&fit=crop",
+        "features": [
+            "15 AI Presets",
+            "Noise Reduction",
+            "Voice Enhancement",
+            "Batch Processing"
+        ],
+        "compatibility": [
+            "Adobe Audition",
+            "DaVinci Resolve",
+            "Premiere Pro"
+        ],
+        "fileFormat": ".ffx, .preset",
+        "license": "Single user",
+        "dateAdded": "2026-02-01"
+    },
+    {
+        "id": 4,
+        "slug": "motion-graphics-starter-kit",
+        "name": {
+            "en": "Motion Graphics Starter Kit",
+            "ar": "حزمة الموشن جرافيكس للمبتدئين"
+        },
+        "description": {
+            "en": "30 customizable After Effects templates — lower thirds, intros, outros, and call-to-actions. Perfect for beginners.",
+            "ar": "30 قالب أفتر إيفكتس قابل للتعديل — لوير ثيردز، مقدمات، نهايات، وأزرار دعوة. مثالي للمبتدئين."
+        },
+        "price": 34.99,
+        "category": "templates",
+        "isFree": false,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&h=400&fit=crop",
+        "features": [
+            "30 Templates",
+            "Easy Customization",
+            "Video Tutorial",
+            "4K Compatible"
+        ],
+        "compatibility": [
+            "After Effects CC 2022+"
+        ],
+        "fileFormat": ".aep",
+        "license": "Single user, unlimited projects",
+        "dateAdded": "2026-02-05"
+    },
+    {
+        "id": 5,
+        "slug": "freelancer-ultimate-bundle",
+        "name": {
+            "en": "Freelancer Ultimate Bundle",
+            "ar": "الباقة الشاملة للفريلانسر"
+        },
+        "description": {
+            "en": "Everything you need in one package: editing presets, templates, graphics, and workflow tools. Save 60% vs buying individually.",
+            "ar": "كل اللي تحتاجه في باقة واحدة: بريسيت مونتاج، قوالب، جرافيكس، وأدوات سير العمل. وفّر 60% مقارنة بالشراء المنفرد."
+        },
+        "price": 79.99,
+        "category": "bundles",
+        "isFree": false,
+        "isBestSeller": true,
+        "isBundle": true,
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+        "features": [
+            "500+ Assets",
+            "All Categories Included",
+            "Lifetime Updates",
+            "Priority Support"
+        ],
+        "compatibility": [
+            "Premiere Pro",
+            "After Effects",
+            "Photoshop",
+            "Canva"
+        ],
+        "fileFormat": "Mixed formats",
+        "license": "Single user, all projects",
+        "dateAdded": "2026-01-10"
+    },
+    {
+        "id": 6,
+        "slug": "free-color-grading-luts",
+        "name": {
+            "en": "Free Color Grading LUTs",
+            "ar": "فلاتر تدريج ألوان مجانية"
+        },
+        "description": {
+            "en": "10 professional cinematic LUTs for free. Transform your footage with one click. Compatible with all major editors.",
+            "ar": "10 فلاتر سينمائية احترافية مجانية. حوّل فيديوهاتك بنقرة واحدة. متوافق مع جميع برامج المونتاج."
+        },
+        "price": 0,
+        "category": "freebies",
+        "isFree": true,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=600&h=400&fit=crop",
+        "features": [
+            "10 Cinematic LUTs",
+            "One-Click Apply",
+            "Tutorial Included"
+        ],
+        "compatibility": [
+            "Premiere Pro",
+            "DaVinci Resolve",
+            "Final Cut Pro"
+        ],
+        "fileFormat": ".cube",
+        "license": "Free for personal & commercial use",
+        "dateAdded": "2026-01-25"
+    },
+    {
+        "id": 7,
+        "slug": "free-instagram-story-templates",
+        "name": {
+            "en": "Free Instagram Story Templates",
+            "ar": "قوالب ستوري انستجرام مجانية"
+        },
+        "description": {
+            "en": "15 modern Instagram Story templates. Editable in Canva. Perfect for building your portfolio.",
+            "ar": "15 قالب ستوري انستجرام عصري. قابل للتعديل في كانفا. مثالي لبناء بورتفوليو."
+        },
+        "price": 0,
+        "category": "freebies",
+        "isFree": true,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=400&fit=crop",
+        "features": [
+            "15 Templates",
+            "Canva Editable",
+            "Modern Design"
+        ],
+        "compatibility": [
+            "Canva"
+        ],
+        "fileFormat": ".canva",
+        "license": "Free for personal & commercial use",
+        "dateAdded": "2026-02-08"
+    },
+    {
+        "id": 8,
+        "slug": "youtube-thumbnail-pack",
+        "name": {
+            "en": "YouTube Thumbnail Pack",
+            "ar": "حزمة ثامبنيل يوتيوب"
+        },
+        "description": {
+            "en": "50 eye-catching YouTube thumbnail templates. Boost your CTR with professional designs. Easy to customize.",
+            "ar": "50 قالب ثامبنيل يوتيوب لافت للنظر. زيد نسبة النقر بتصاميم احترافية. سهل التعديل."
+        },
+        "price": 24.99,
+        "category": "graphic-design",
+        "isFree": false,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=600&h=400&fit=crop",
+        "features": [
+            "50 Templates",
+            "High CTR Designs",
+            "PSD & Canva",
+            "Easy Editing"
+        ],
+        "compatibility": [
+            "Photoshop",
+            "Canva"
+        ],
+        "fileFormat": ".psd, .canva",
+        "license": "Single user",
+        "dateAdded": "2026-02-10"
+    },
+    {
+        "id": 9,
+        "slug": "cinematic-transitions-pack",
+        "name": {
+            "en": "Cinematic Transitions Pack",
+            "ar": "حزمة انتقالات سينمائية"
+        },
+        "description": {
+            "en": "80+ seamless cinematic transitions for Premiere Pro. Drag and drop. Make your videos look like Hollywood productions.",
+            "ar": "أكثر من 80 انتقال سينمائي سلس لبريمير برو. سحب وإفلات. اجعل فيديوهاتك تبدو كإنتاجات هوليوود."
+        },
+        "price": 39.99,
+        "category": "video-editing",
+        "isFree": false,
+        "isBestSeller": true,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&h=400&fit=crop",
+        "features": [
+            "80+ Transitions",
+            "Drag & Drop",
+            "4K 60fps",
+            "Sound Effects Included"
+        ],
+        "compatibility": [
+            "Premiere Pro CC 2021+"
+        ],
+        "fileFormat": ".mogrt, .prproj",
+        "license": "Single user, unlimited projects",
+        "dateAdded": "2026-01-05"
+    },
+    {
+        "id": 10,
+        "slug": "free-sound-effects-pack",
+        "name": {
+            "en": "Free Sound Effects Pack",
+            "ar": "حزمة مؤثرات صوتية مجانية"
+        },
+        "description": {
+            "en": "50 royalty-free sound effects for transitions, whooshes, and impacts. Essential for any editor.",
+            "ar": "50 مؤثر صوتي بدون حقوق ملكية للانتقالات والحركات. أساسي لأي محرر فيديو."
+        },
+        "price": 0,
+        "category": "freebies",
+        "isFree": true,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&h=400&fit=crop",
+        "features": [
+            "50 SFX",
+            "Royalty Free",
+            "WAV Format",
+            "Organized by Category"
+        ],
+        "compatibility": [
+            "Any Video Editor"
+        ],
+        "fileFormat": ".wav",
+        "license": "Royalty-free, commercial use",
+        "dateAdded": "2026-02-12"
+    },
+    {
+        "id": 11,
+        "slug": "brand-identity-kit",
+        "name": {
+            "en": "Brand Identity Kit",
+            "ar": "حزمة هوية بصرية"
+        },
+        "description": {
+            "en": "Complete brand identity system: logo templates, color palettes, typography guide, and social media kit. Build a professional brand in hours.",
+            "ar": "نظام هوية بصرية كامل: قوالب لوجو، لوحات ألوان، دليل خطوط، وحزمة سوشيال ميديا. ابنِ براند احترافي في ساعات."
+        },
+        "price": 44.99,
+        "category": "graphic-design",
+        "isFree": false,
+        "isBestSeller": false,
+        "isBundle": true,
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop",
+        "features": [
+            "Logo Templates",
+            "Color Palettes",
+            "Typography Guide",
+            "Social Media Kit"
+        ],
+        "compatibility": [
+            "Photoshop",
+            "Illustrator",
+            "Canva"
+        ],
+        "fileFormat": ".psd, .ai, .canva",
+        "license": "Single user, one brand",
+        "dateAdded": "2026-01-28"
+    },
+    {
+        "id": 12,
+        "slug": "ai-workflow-automation-pack",
+        "name": {
+            "en": "AI Workflow Automation Pack",
+            "ar": "حزمة أتمتة سير العمل بالذكاء الاصطناعي"
+        },
+        "description": {
+            "en": "AI-powered scripts and presets that automate repetitive editing tasks. Cut your editing time in half.",
+            "ar": "سكريبتات وبريسيت مدعومة بالذكاء الاصطناعي تأتمت المهام المتكررة. اختصر وقت المونتاج للنصف."
+        },
+        "price": 54.99,
+        "category": "ai-tools",
+        "isFree": false,
+        "isBestSeller": false,
+        "isBundle": false,
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+        "features": [
+            "10 AI Scripts",
+            "Auto Color Match",
+            "Smart Cuts",
+            "Batch Export"
+        ],
+        "compatibility": [
+            "Premiere Pro",
+            "After Effects"
+        ],
+        "fileFormat": ".jsx, .preset",
+        "license": "Single user",
+        "dateAdded": "2026-02-03"
+    }
+]

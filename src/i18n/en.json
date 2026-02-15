@@ -1,0 +1,123 @@
+{
+    "nav": {
+        "home": "Home",
+        "products": "Products",
+        "bundles": "Bundles",
+        "freebies": "Freebies",
+        "startHere": "Start Here",
+        "about": "About",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "terms": "Terms",
+        "privacy": "Privacy",
+        "license": "License"
+    },
+    "hero": {
+        "headline": "Digital products for video editors & designers — work smarter, deliver faster.",
+        "subheadline": "Ready-to-use templates, bundles, AI tools, and workflows that save you hours, improve quality, and help you earn consistently as a freelancer.",
+        "browseProducts": "Browse Products",
+        "downloadFreebies": "Download Freebies",
+        "trustLine": "Instant access • Freelancer-focused • Client-ready results"
+    },
+    "sections": {
+        "bestSellers": "Best Sellers",
+        "bestSellersDesc": "Our most popular products trusted by hundreds of freelancers",
+        "whyChooseUs": "Why Choose VISUALEDITS",
+        "freeDownloads": "Free Downloads",
+        "freeDownloadsDesc": "Start with these free tools — no payment required",
+        "categories": "Browse Categories",
+        "categoriesDesc": "Find the perfect tools for your workflow",
+        "testimonials": "What Freelancers Say",
+        "testimonialsDesc": "Join 500+ freelancers who trust our products",
+        "ctaHeadline": "Ready to scale your freelance business?",
+        "ctaSubheadline": "Get the tools that help you deliver faster, charge more, and build a consistent income.",
+        "startNow": "Start Now"
+    },
+    "whyUs": {
+        "speed": "Deliver projects 50% faster",
+        "quality": "Premium quality = higher prices",
+        "efficiency": "Work less, earn more",
+        "impress": "Impress clients every time"
+    },
+    "products": {
+        "viewDetails": "View Details",
+        "buyNow": "Buy Now",
+        "addToCart": "Add to Cart",
+        "free": "FREE",
+        "searchPlaceholder": "Search products...",
+        "sortNewest": "Newest",
+        "sortBestSellers": "Best Sellers",
+        "sortPriceLow": "Price: Low to High",
+        "sortPriceHigh": "Price: High to Low",
+        "allCategories": "All",
+        "videoEditing": "Video Editing",
+        "graphicDesign": "Graphic Design",
+        "aiTools": "AI Tools",
+        "templates": "Templates",
+        "bundlesCat": "Bundles",
+        "freebiesCat": "Freebies",
+        "noProducts": "No products found matching your criteria.",
+        "relatedProducts": "Related Products",
+        "features": "Features",
+        "compatibility": "Compatible Software",
+        "fileFormat": "File Format",
+        "licenseInfo": "License",
+        "price": "Price"
+    },
+    "categories": {
+        "videoEditing": "Video Editing Templates",
+        "graphicDesign": "Graphic Design Assets",
+        "aiTools": "AI Tools & Presets",
+        "motionGraphics": "Motion Graphics",
+        "soundEffects": "Sound Effects"
+    },
+    "about": {
+        "title": "About VISUALEDITS",
+        "content": "I built this store for freelancers who want to stop wasting hours on repetitive work.\n\nMost video editors and designers spend too much time rebuilding the same templates, setting up projects from scratch, and repeating the same workflow every single time.\n\nThis store exists for one simple reason:\nWork less — deliver faster — earn consistently.\n\nInside, you'll find digital products made specifically for video editors & designers:\n• Ready-to-use templates\n• Productivity workflows\n• AI toolkits\n• Bundles and assets\n• Systems that help you deliver client-ready results in less time\n\nEvery product is built to be:\npractical, clean, fast to use, and valuable from day one.\n\nWhether you're a beginner trying to save time or a professional looking to scale your workflow — you're in the right place."
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Are these products digital only?",
+        "a1": "Yes. All products are digital and available for instant download after purchase.",
+        "q2": "Can I use them for client work?",
+        "a2": "Yes. Most products are client-ready, as long as you follow the license terms mentioned on each product page.",
+        "q3": "Are they beginner-friendly?",
+        "a3": "Yes. There are products for beginners and professionals. You can start from the \"Start Here\" page.",
+        "q4": "Do you offer refunds?",
+        "a4": "Since these are digital downloads, refunds are usually not available. However, if you face any technical issue, support is available.",
+        "q5": "Will the products work on my software?",
+        "a5": "Each product clearly states the compatible software (Premiere, After Effects, Canva, etc.).",
+        "q6": "Do products get updates?",
+        "a6": "Some products receive updates. If available, it will be mentioned on the product page."
+    },
+    "startHere": {
+        "title": "Start Here",
+        "subtitle": "New to VISUALEDITS? Here's everything you need to get started.",
+        "step1Title": "Browse Products",
+        "step1Desc": "Explore our collection of templates, presets, and tools designed for freelancers.",
+        "step2Title": "Try Free Downloads",
+        "step2Desc": "Download free samples to test the quality before purchasing.",
+        "step3Title": "Choose Your Toolkit",
+        "step3Desc": "Pick the products that match your workflow and start delivering faster.",
+        "step4Title": "Scale Your Business",
+        "step4Desc": "Use professional tools to impress clients and increase your rates."
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "subtitle": "Have questions? We're here to help.",
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Your Message",
+        "send": "Send Message",
+        "info": "For support inquiries, please include your order number."
+    },
+    "footer": {
+        "brand": "VISUALEDITS",
+        "tagline": "Premium digital products for video editors & designers.",
+        "quickLinks": "Quick Links",
+        "legal": "Legal",
+        "stayConnected": "Stay Connected",
+        "rights": "All rights reserved.",
+        "madeWith": "Made with ❤️ for freelancers"
+    }
+}
